@@ -24,7 +24,6 @@
 </br>
  
  ### Main skills:
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
@@ -38,6 +37,8 @@
 [![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)](https://www.java.com/)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 ![Data](https://img.shields.io/badge/-Data-0D1117?style=for-the-badge&logo=data&labelColor=0D1117)&nbsp;
+![Machine Learning](https://img.shields.io/badge/-MachineLearning-0D1117?style=for-the-badge&logo=data&labelColor=0D1117)&nbsp;
+![Power BI](https://img.shields.io/badge/-PowerBI-0D1117?style=for-the-badge&logo=data&labelColor=0D1117)&nbsp;
 
 </br>
 
